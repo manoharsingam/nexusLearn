@@ -1,5 +1,4 @@
-
-# 🚀 NexusLearn (PRISM)
+# 🚀 NexusLearn
 
 **NexusLearn** is an AI-powered learning platform that transforms static study material into an interactive experience.
 Students can chat with PDFs, generate quizzes, take mock interviews, write notes, and track study progress — all in one place using a Retrieval-Augmented Generation (RAG) pipeline.
@@ -113,7 +112,7 @@ SECRET_KEY=your_secret
 
 ## 🤝 Contributing (Team Workflow)
 
-1. Fork or clone repository
+1. Clone repository
 2. Create a feature branch
 
 ```
@@ -133,7 +132,7 @@ git commit -m "added feature"
 git push origin feature/your-feature
 ```
 
-5. Create Pull Request → dev branch
+5. Create Pull Request → main
 
 ---
 
